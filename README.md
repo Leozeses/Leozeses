@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Lemos Souza</h1>
-<h3 align="center">I'm 22 years old, I study computer engineering at Multivix, Vitória -ES. I'm passionate about football, programming and codes in general!</h3>
+<h3 align="center">I'm 24 years old, I study computer engineering at Multivix, Vitória -ES. I'm passionate about football, programming and codes in general!</h3>
 
 - 🌱 I am currently learning about **HTML, CSS, JavaScript!**
 
